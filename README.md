@@ -1,0 +1,3 @@
+This is a Dockerfile to have a recently updated version of telegram-cli working in 2020 without segfaulting. Hopefully...
+
+The corresponding Lua script is here: https://github.com/kenorb-contrib/tg
